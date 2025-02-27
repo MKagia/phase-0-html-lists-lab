@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2025-02-27T03:45:26.331Z",
+    "end": "2025-02-27T03:45:26.380Z",
+    "duration": 49
+  },
+  "tests": [
+    {
+      "title": "exists in the document",
+      "fullTitle": "the <ul> tag exists in the document",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 18,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three child <li> tags with the correct content",
+      "fullTitle": "the <ul> tag has three child <li> tags with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 7,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a nested <ul> tag within a <li>",
+      "fullTitle": "the <ul> tag contains a nested <ul> tag within a <li>",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains three <li> nested within the nested <ul> with the correct content",
+      "fullTitle": "the <ul> tag contains three <li> nested within the nested <ul> with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the document",
+      "fullTitle": "the <ol> tag exists in the document",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has five child <li> tags with the correct content",
+      "fullTitle": "the <ol> tag has five child <li> tags with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists in the document",
+      "fullTitle": "the <ul> tag exists in the document",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 18,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three child <li> tags with the correct content",
+      "fullTitle": "the <ul> tag has three child <li> tags with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 7,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a nested <ul> tag within a <li>",
+      "fullTitle": "the <ul> tag contains a nested <ul> tag within a <li>",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains three <li> nested within the nested <ul> with the correct content",
+      "fullTitle": "the <ul> tag contains three <li> nested within the nested <ul> with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the document",
+      "fullTitle": "the <ol> tag exists in the document",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has five child <li> tags with the correct content",
+      "fullTitle": "the <ol> tag has five child <li> tags with the correct content",
+      "file": "/home/brian/Development/code/se-prep/phase-0-completing-assignments-codegrade/phase-0-html-lists-lab/test/indexTest.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
